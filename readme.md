@@ -21,7 +21,7 @@ Run
 You can run each script individually:
 
 python ev_category.py
-python map.py
+python ev_maker_map.py
 python pcs_map.html
 python top_makers_by_category.py
 python vehicle_class.py
