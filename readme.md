@@ -24,9 +24,8 @@ python vehicle_class.py
 
 License
 MIT
-
----
-ScreenShots
+```
+## ScreenShots
 
 1. Total ev sold per year
 ![total ev sold per year](https://github.com/user-attachments/assets/934c407a-1efd-4eed-8ec3-217a8b4923d3)
